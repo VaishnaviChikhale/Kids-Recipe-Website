@@ -1,0 +1,99 @@
+/* Global Styles */
+body {
+    font-family: 'Comic Sans MS', cursive;
+    background-color: #f9f7f7;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+header {
+    background: linear-gradient(to right bottom, #ffb6c1, #ffd700);
+    color: #fff;
+    padding: 20px 0;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 20px;
+    font-weight: bold;
+    transition: all 0.3s ease;
+}
+
+nav a:hover {
+    color: #ffd700;
+}
+
+footer {
+    background: linear-gradient(to right bottom, #ffd700, #ffb6c1);
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 14px;
+}
+
+/* Hero Section Styles */
+.hero {
+    background-image: url('bg.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    color: #fff;
+    padding: 100px 0;
+    text-align: center;
+}
+
+/* Recipes Section Styles */
+.recipes {
+    padding: 50px 0;
+}
+
+.recipe {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 30px;
+    transition: transform 0.3s ease;
+}
+
+.recipe:hover {
+    transform: translateY(-5px);
+}
+
+.recipe h3 {
+    color: #fe5196;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.recipe img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* About Section Styles */
+.about {
+    background-image: url('about.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    color: #333;
+    padding: 100px 0;
+    text-align: center;
+}
+
+.highlight {
+    background-color: rgba(255, 255, 255, 0.68); /* Set the background color */
+    padding: 2px 4px; /* Optional: Add padding for spacing around the highlighted text */
+}
