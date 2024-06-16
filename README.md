@@ -64,7 +64,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [chikhalevaistar@gmail.com](mailto:chikhalevaistar@gmail.com)
+Vaishnavi Chikhale - [chikhalevaistar@gmail.com](mailto:chikhalevaistar@gmail.com)
 
 Project Link: [https://github.com/VaishnaviChikhale/Kids-Recipe-Website](https://github.com/VaishnaviChikhale/Kids-Recipe-Website)
 
